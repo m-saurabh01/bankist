@@ -1,4 +1,3 @@
-```markdown
 # Bankist - When Banking Meets Minimalist
 
 ![Bankist Logo](img/icon.png)
@@ -64,7 +63,6 @@ Developed by [Saurabh Mishra](https://github.com/yourusername).
 ---
 
 **Bankist** - A simpler banking experience for a simpler life.
-```
 
 ### Instructions
 - Replace `https://github.com/yourusername/bankist.git` and `yourusername` with your actual GitHub repository link and username.
