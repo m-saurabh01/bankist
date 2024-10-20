@@ -1,6 +1,6 @@
 # Bankist - When Banking Meets Minimalist
 
-![Bankist Logo](img/icon.png)
+![Bankist Logo](img/logo.png)
 
 ## Overview
 
