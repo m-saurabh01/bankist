@@ -11,7 +11,7 @@
 - **Minimalist Design**: A clean and straightforward layout for easy navigation.
 - **Responsive Layout**: Optimized for both desktop and mobile devices.
 - **Sections Include**:
-  - **Features**: Highlighting the benefits of choosing Bankist.
+  - **Features**: Highlighting the benefit of choosing Bankist.
   - **Operations**: Describing key banking operations like instant transfers and loans.
   - **Testimonials**: Real feedback from users to build trust.
   - **Call to Action**: Encourages users to open an account easily.
